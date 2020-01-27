@@ -10,12 +10,16 @@
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
         <activity
+            android:name=".WorkHistory"
+            android:label="@string/title_activity_workHistory"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
             android:name=".LandingPage"
             android:label="@string/title_activity_landing_page"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name=".AboutMe"
-            android:label="@string/title_activity_landing_page"
+            android:label="@string/title_activity_aboutme"
             android:theme="@style/AppTheme.NoActionBar" />
         <activity
             android:name=".MainActivity"

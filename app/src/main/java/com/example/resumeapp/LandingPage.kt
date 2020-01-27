@@ -1,6 +1,8 @@
 package com.example.resumeapp
 
+import android.content.Intent
 import android.os.Bundle
+import android.view.View
 import com.google.android.material.snackbar.Snackbar
 import androidx.appcompat.app.AppCompatActivity
 
@@ -12,7 +14,11 @@ class LandingPage : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_landing_page)
         setSupportActionBar(toolbar)
+    }
 
+    fun openAboutMe(view: View) {
+        val intent = Intent(this, AboutMe::class.java)
+        startActivity(intent)
     }
 
 }

@@ -12,4 +12,8 @@
     <string name="education">Education</string>
     <string name="contact_me">Contact me</string>
     <string name="connect">Connect</string>
+    <string name="aboutMeText1">Originally from Kansas City, MO. I went to high-school at L.C.P.A and then went on to college at the University of Missouri - St. Louis from which I graduated in 2019.</string>
+    <string name="aboutMeText2">I started learning HTML in high-school in my free time. After that I progressed into learning JavaScript a little. Once in college I started my CS classes and began to learn C++ and Java. I didn\'t begin to learn web development until my senior year in college when I began to teach myself because it interested me. My mobile development journey started slightly after that.</string>
+    <string name="aboutMeText3">I like to stay current on the different things that are going on within the industry, so I am constantly reading and trying out different things. I stay glued to Stack Exchange, Hackernoon and other sites that like to provide knowledge for the community. I also participate in Hackathons when I have the availability. It\'s important to stay up to date in this field and I pride myself on teaching my self new things.</string>
+    <string name="title_activity_workHistory">Work History</string>
 </resources>
