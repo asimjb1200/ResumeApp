@@ -21,4 +21,9 @@ class LandingPage : AppCompatActivity() {
         startActivity(intent)
     }
 
+    fun openWorkHistory(view: View) {
+        val intent = Intent(this, WorkHistory::class.java)
+        startActivity(intent)
+    }
+
 }
