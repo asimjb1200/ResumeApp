@@ -67,4 +67,8 @@
     <string name="thruExp3">
             - Used Google Analytics to analyze our sites to find weaknesses in site design and areas where we could improve our content.
     </string>
+    <string name="college">University of Missouri - St. Louis</string>
+    <string name="educationHeader">College</string>
+    <string name="major">Major</string>
+    <string name="degree">B.S. Information Systems</string>
 </resources>

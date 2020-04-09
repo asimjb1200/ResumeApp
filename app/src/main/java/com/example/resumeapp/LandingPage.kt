@@ -26,4 +26,9 @@ class LandingPage : AppCompatActivity() {
         startActivity(intent)
     }
 
+    fun openEducation(view: View) {
+        val intent = Intent(this, Education::class.java)
+        startActivity(intent)
+    }
+
 }
