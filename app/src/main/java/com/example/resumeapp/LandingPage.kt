@@ -31,4 +31,9 @@ class LandingPage : AppCompatActivity() {
         startActivity(intent)
     }
 
+    fun openContactMe(view: View) {
+        val intent = Intent(this, ContactMe::class.java)
+        startActivity(intent)
+    }
+
 }

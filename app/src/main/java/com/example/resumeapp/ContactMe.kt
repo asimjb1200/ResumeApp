@@ -6,6 +6,6 @@ import androidx.appcompat.app.AppCompatActivity
 public class ContactMe: AppCompatActivity() {
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_contactMe)
+        setContentView(R.layout.activity_contactme)
     }
 }
