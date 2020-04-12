@@ -21,7 +21,7 @@
                 android:id="@+id/phoneNumberHeader"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="Cell Phone"
+                android:text="@string/phoneHeader"
                 android:textSize="20sp"
                 android:textStyle="bold" />
 
@@ -29,7 +29,7 @@
                 android:id="@+id/textView2"
                 android:layout_width="match_parent"
                 android:layout_height="wrap_content"
-                android:text="816-649-4739" />
+                android:text="@string/phoneNumber" />
         </LinearLayout>
     </androidx.cardview.widget.CardView>
 
@@ -49,7 +49,7 @@
                 android:id="@+id/textView"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Email"
+                android:text="@string/emailHeader"
                 android:textSize="20sp"
                 android:textStyle="bold" />
 
@@ -57,7 +57,7 @@
                 android:id="@+id/textView3"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="asimjbrown@gmail.com" />
+                android:text="@string/email" />
         </LinearLayout>
 
     </androidx.cardview.widget.CardView>
@@ -78,7 +78,7 @@
                 android:id="@+id/github"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Github Profile"
+                android:text="@string/githubHeader"
                 android:textSize="20sp"
                 android:textStyle="bold" />
 
@@ -86,7 +86,7 @@
                 android:id="@+id/githubLink"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="https://github.com/asimjb1200" />
+                android:text="@string/gitLink" />
         </LinearLayout>
 
     </androidx.cardview.widget.CardView>
@@ -107,7 +107,7 @@
                 android:id="@+id/linkedIn"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="LinkedIn"
+                android:text="@string/linkedinHeader"
                 android:textSize="20sp"
                 android:textStyle="bold" />
 
@@ -115,7 +115,7 @@
                 android:id="@+id/linkedInLink"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="https://www.linkedin.com/in/asim-brown-a6a273138/" />
+                android:text="@string/linkedinLink" />
         </LinearLayout>
 
     </androidx.cardview.widget.CardView>
@@ -136,7 +136,7 @@
                 android:id="@+id/stack"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="Stack Overflow Profile"
+                android:text="@string/stackHeader"
                 android:textSize="20sp"
                 android:textStyle="bold" />
 
@@ -144,7 +144,7 @@
                 android:id="@+id/stackoverflowLink"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:text="https://stackoverflow.com/users/10667652/tank12" />
+                android:text="@string/stackLink" />
         </LinearLayout>
 
     </androidx.cardview.widget.CardView>

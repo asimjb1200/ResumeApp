@@ -71,4 +71,14 @@
     <string name="educationHeader">College</string>
     <string name="major">Major</string>
     <string name="degree">B.S. Information Systems</string>
+    <string name="phoneHeader">Cell Phone</string>
+    <string name="phoneNumber">816-649-4738</string>
+    <string name="emailHeader">Email</string>
+    <string name="email">asimjbrown@gmail.com</string>
+    <string name="githubHeader">Github Profile</string>
+    <string name="gitLink">https://github.com/asimjb1200</string>
+    <string name="linkedinHeader">LinkedIn</string>
+    <string name="linkedinLink">https://www.linkedin.com/in/asim-brown-a6a273138/</string>
+    <string name="stackHeader">Stack Overflow Profile</string>
+    <string name="stackLink">https://stackoverflow.com/users/10667652/tank12</string>
 </resources>
